@@ -104,6 +104,7 @@ body {
 }
 
 .placeholder-line {
+  font-family: cursive;
   display: inline-block;
   border-bottom: 2px dotted #999;
   min-width: 200px;
