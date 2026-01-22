@@ -120,6 +120,7 @@ body {
 }
 
 .course-details {
+  font-family: cursive;
   font-weight: bold;
   font-size: 24px;
   display: block;
